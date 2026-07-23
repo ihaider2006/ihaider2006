@@ -21,7 +21,7 @@
 * 💬 Developed **Flow Automation Builder**, a visual, node-based WhatsApp automation platform featuring an n8n-style React Flow canvas, designed to fully automate support teams and close sales while founders sleep.
 * 🗣️ **Client-Facing & Communicator:** Through my journey in self-employment and working directly with national and international clients, I have developed strong communication and client-facing skills. I don't just write code; I bridge the gap between technical architecture and business needs.
 * ⚡ Passionate about building high-performance systems and deploying products that deliver real-world business impact.
-* * 📄 [**View My Resume**](./Haider_Resume.pdf)
+* * * 📄 [**View My Resume**](https://ihaider2006.github.io/ihaider2006/Haider_Resume.pdf)
 
 <br />
 
