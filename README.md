@@ -48,10 +48,8 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihaider2006&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Haider's GitHub Stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihaider2006&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Haider's Streak" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ihaider2006&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Haider's GitHub Stats" />
 </p>
-
-<br />
-
-<h4 align="left">"Engineering excellence is where technical depth meets business impact."</h4>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihaider2006&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Haider's Streak" />
+</p>
