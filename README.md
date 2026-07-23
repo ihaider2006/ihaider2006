@@ -18,7 +18,7 @@
 * 🎓 **Computer Science** student at Riphah International University.
 * 🚀 Built **CoRide**, a carpooling platform designed to save individuals up to 40,000 PKR monthly.
 * 🧠 Engineered **DataWise AI**, a full-stack automated platform replacing entry-level data analyst tasks to save stakeholders 15+ hours a week.
-* 💬 Developed **Hashi CRM**, a visual, node-based WhatsApp automation platform featuring an n8n-style React Flow canvas, designed to fully automate support teams and close sales while founders sleep.
+* 💬 Developed **Flow Automation Builder**, a visual, node-based WhatsApp automation platform featuring an n8n-style React Flow canvas, designed to fully automate support teams and close sales while founders sleep.
 * 🗣️ **Client-Facing & Communicator:** Through my journey in self-employment and working directly with national and international clients, I have developed strong communication and client-facing skills. I don't just write code; I bridge the gap between technical architecture and business needs.
 * ⚡ Passionate about building high-performance systems and deploying products that deliver real-world business impact.
 * 📄 [**View My Resume**](https://drive.google.com/file/d/1n4IaNPQmCpacxIvMiaOaLO1yhJ3NtHZK/view?usp=sharing)
