@@ -18,8 +18,8 @@
 * 🎓 **Computer Systems Engineering** student at Riphah International University (FIAS).
 * 🚀 **SaaS Founder & Lead Engineer** at Hashi Ventures, bridging the gap between technical architecture and real-world business needs.
 * 🧠 Engineered **DataWise AI**, an autonomous data platform utilizing LLMs, DuckDB, and multi-agent workflows to fully automate data cleaning and SQL generation.
-* 💬 Developed **Hashi CRM**, a visual node-based WhatsApp automation platform featuring a React Flow canvas, designed to fully automate support teams and close client acquisition workflows.
-* 🚗 Built **CoRide**, a full-stack Flutter and Supabase carpooling architecture designed to save individuals up to 40,000 PKR monthly.
+* 💬 Developed **Flow CRM**, a visual node-based WhatsApp automation platform featuring a React Flow canvas, designed to fully automate support teams and close client acquisition workflows.
+* 🚗 Built **CoRide**, a full-stack Flutter and firebase carpooling architecture designed to save individuals up to 40,000 PKR monthly.
 * ⚡ Passionate about building high-performance systems, automated ETL pipelines, and deploying products that eliminate manual workflows to deliver real-world ROI.
 * * * 📄 [**View My Resume**](https://ihaider2006.github.io/ihaider2006/Haider_Resume.pdf)
 
