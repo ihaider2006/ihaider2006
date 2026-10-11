@@ -11,17 +11,23 @@
   </a>
 </p>
 
+I build software that solves real business problems by reducing costs, automating manual work, and improving operational efficiency.
+
 <br />
 
-### 👨‍💻 A Bit About Me
+### 👨‍💻 A Bit About Me & Hashi Ventures
 
-* 🎓 **Computer Systems Engineering** student at Riphah International University (FIAS).
-* 🚀 **SaaS Founder & Lead Engineer** at Hashi Ventures, bridging the gap between technical architecture and real-world business needs.
-* 🧠 Engineered **DataWise AI**, an autonomous data platform utilizing LLMs, DuckDB, and multi-agent workflows to fully automate data cleaning and SQL generation.
-* 💬 Developed **Flow CRM**, a visual node-based WhatsApp automation platform featuring a React Flow canvas, designed to fully automate support teams and close client acquisition workflows.
-* 🚗 Built **CoRide**, a full-stack Flutter and firebase carpooling architecture designed to save individuals up to 40,000 PKR monthly.
-* ⚡ Passionate about building high-performance systems, automated ETL pipelines, and deploying products that eliminate manual workflows to deliver real-world ROI.
-* * * 📄 [**View My Resume**](https://ihaider2006.github.io/ihaider2006/Haider_Resume.pdf)
+- 🎓 **Computer Systems Engineering** student at Riphah International University (FIAS).
+- 🚀 **SaaS Founder & Lead Engineer** at Hashi Ventures, bridging the gap between technical architecture and real-world business needs. I take client requirements and provide solutions that bring significant value addition.
+
+### 💼 Featured Commercial Projects & SaaS
+
+- **CoRide:** Built and deployed a community ride-sharing platform designed to reduce daily commuting costs by up to 40%, featuring smart route matching, scheduled rides, GPS tracking, real-time chat, and secure seat allocation.
+- **DataWise AI:** Built and deployed an AI analytics Chatbot and BI platform that turns CSV/Excel data into SQL analysis, charts, and insights without coding. Engineered with 4,500+ lines of code, 15+ APIs, 5-stage AI processing, and self-correcting SQL supporting files up to 50MB.
+- **Freight Documentation System:** Built an AI-powered logistics documentation system using OCR, Oracle, automated compliance checks, version control, and audit trails. Targeted $10,000/month in client savings by reducing manual work, documentation error fines in customs, and delayed shipments by 60%.
+- **Fitroe (AI Resume Optimization):** Built an AI-powered resume tailoring platform that analyzes job requirements and generates targeted resume recommendations. Designed to improve candidate response rates by up to 30% with automated job-to-resume matching workflows.
+- **Flow:** Built a 24/7 AI-powered WhatsApp automation and CRM platform using the official WhatsApp API. Designed to automate customer engagement and improve retention by 25% to 40% using a visual node-based React Flow canvas.
+- **Stembee:** Built a STEM education platform focused on enabling remote learning.
 
 <br />
 
@@ -45,6 +51,47 @@
 
 <br />
 
+### 🔐 Private Repositories & Active Development
+
+**Note on Code Availability:** Most of the repositories listed below are proprietary client projects built through Hashi Ventures. Due to NDAs and strict confidentiality agreements, making this code public is strictly prohibited. However, here is a high-level look at the private repositories I actively maintain, architect, and deploy:
+
+**Data & AI Systems:**
+- `datawiseai_production`
+- `what-ai`
+- `laugh-factory-ai`
+- `data-viz-ai-canvas`
+- `Customer_Data_analysis`
+
+**CRM & Automation:**
+- `whatsappcrm`
+- `growth-engine-builders`
+
+**SaaS & Platforms:**
+- `coride-app`
+- `fitroe`
+- `shelf`
+- `stembee-live`
+- `hashi-ventures-web`
+
+**E-Commerce, Real Estate & Client Projects:**
+- `ecom-insights`
+- `realestate`
+- `adspark-studio`
+- `humanize-handwritten-art`
+- `InstaGraph-Backend`
+- `lumi_client`
+- `dsaproject`
+
+<br />
+
+### ⚙️ Engineering Practices
+
+I follow a structured SDLC covering requirements, design, development, testing, deployment, and maintenance. I use Git, testing, CI/CD, APIs, databases, security, and production workflows to build scalable, maintainable systems. 
+
+**I don't just build projects. I turn real problems into deployable solutions.**
+
+<br />
+
 ### 📊 GitHub Analytics
 
 <p align="left">
@@ -53,3 +100,7 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihaider2006&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Haider's Streak" />
 </p>
+
+---
+
+*📄 [**View My Resume**](https://ihaider2006.github.io/ihaider2006/Haider_Resume.pdf)*
